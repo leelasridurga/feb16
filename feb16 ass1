@@ -1,0 +1,11 @@
+a=int(input(""))
+for i in range(a):
+    print(i*i)
+    
+    output:
+enter n 5
+0
+1
+4
+9
+16
